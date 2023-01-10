@@ -1,8 +1,9 @@
 # Project UAS Bahasa Pemograman
+
 <br><br>
-NAMA  : Chaerul Hidayat<br>
+NAMA : Chaerul Hidayat<br>
 Kelas : T.I.22.A.3<br>
-NIM   : 312210300<Br>
+NIM : 312210300<Br>
 LINK Youtube : [https://www.youtube.com/watch?v=uQywLmp2x9U](https://www.youtube.com/watch?v=uQywLmp2x9U)
 
 Disini Saya akan Menjelaskan Kode Daftar NIlai<br>
@@ -10,7 +11,7 @@ Disini Saya akan Menjelaskan Kode Daftar NIlai<br>
 Kode daftar_nilai berisi: tambah_data, ubah_data, cari_data, hapus_data.<br><Br>
 ~ tambah_data <br>
 tambah_data berguna untuk menambahkan data seperti nama, nim,
-nilai tugas, nilai UTS, nilai UAS, nilai akhir. tambah data yang di input  user <br><br>
+nilai tugas, nilai UTS, nilai UAS, nilai akhir. tambah data yang di input user <br><br>
 ➢ ubah_data<br>
 ubah_data berguna untuk mengubah data-data yang di input user dan ingin di ubah <br><br>
 ➢ cari_data<br>
@@ -29,7 +30,7 @@ karna saya menggunakan liblary tabulate, sedangkan cetak_hasil_pencarian akan me
 
 ~Kode Main Py <br>
 ![](Gambar/main py.png)<br>
- kode [main.py]() ini ada program utama untuk menjalankan input data Mahasiswa disini bisa Menmabah Data , Melihat Data , Menghapus Data , Mengubah Data , Dan Mencari Data <br><br>
+kode [main.py]() ini ada program utama untuk menjalankan input data Mahasiswa disini bisa Menmabah Data , Melihat Data , Menghapus Data , Mengubah Data , Dan Mencari Data <br><br>
 
 <br><br>
 
@@ -51,8 +52,5 @@ Data Setelah Di Hapus <br>
 #Output Keluar Menu <br>
 ![](Gambar/out put 7.png)<br><br>
 
-
-SEKIAN TERIMA KASIH
-
-
-
+SEKIAN PENJELASAN DARI SAYA , KURANG LEBIHNYA SAYA MOHON MAAF<br>
+TERIMA KASIH
