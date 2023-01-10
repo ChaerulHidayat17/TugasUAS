@@ -2,7 +2,8 @@
 <br><br>
 NAMA  : Chaerul Hidayat<br>
 Kelas : T.I.22.A.3<br>
-NIM   : 312210300
+NIM   : 312210300<Br>
+LINK Youtube : [https://www.youtube.com/watch?v=uQywLmp2x9U](https://www.youtube.com/watch?v=uQywLmp2x9U)
 
 Disini Saya akan Menjelaskan Kode Daftar NIlai<br>
 ![](Gambar/daftar nilai.png)<br>
@@ -17,8 +18,8 @@ cari_data berguna untuk menampilkan data yang dicari dalam input, cari data yang
 ➢ hapus_data<br>
 hapus_data berguna menghapus data yang diinput oleh user , biasa nya user ingin menghapus data yg salah<br><br>
 
-~Kode input nilai
-![](Gambar/input nilai.png)<br><br>
+~Kode input nilai<br>
+![](Gambar/input nilai.png)<br>
 Kode input nilai ini berfungsi untuk menginput inputan user yang memasukan nama,nim,tugas,uts,uas <br><br>
 
 ~Kode View Nilai<br>
@@ -32,8 +33,8 @@ karna saya menggunakan liblary tabulate, sedangkan cetak_hasil_pencarian akan me
 
 <br><br>
 
-[#Output Tambah Data]()
-![](Gambar/output 1.png) <br><br>
+[#Output Tambah Data]()<br>
+![](Gambar/output 1.png)<br>
 [#Output Lihat Data]()
 ![](Gambar/output2.png) <br><br>
 [#Output Ubah Data]()<br>
@@ -48,7 +49,7 @@ Data Sebelum Di Hapus <br>
 Data Setelah Di Hapus <br>
 ![](Gambar/out 6.png)<br>
 #Output Keluar Menu <br>
-![](Gambar/out put 7.png)<br><Br>
+![](Gambar/out put 7.png)<br><br>
 
 
 SEKIAN TERIMA KASIH
