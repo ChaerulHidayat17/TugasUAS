@@ -2,7 +2,8 @@
 <br><br>
 NAMA  : Chaerul Hidayat<br>
 Kelas : T.I.22.A.3<br>
-NIM   : 312210300
+NIM   : 312210300<Br>
+LINK Youtube : [https://www.youtube.com/watch?v=uQywLmp2x9U](https://www.youtube.com/watch?v=uQywLmp2x9U)
 
 Disini Saya akan Menjelaskan Kode Daftar NIlai<br>
 ![](Gambar/daftar nilai.png)<br>
