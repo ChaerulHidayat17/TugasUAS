@@ -7,7 +7,7 @@ NIM : 312210300<Br>
 LINK Youtube : [https://www.youtube.com/watch?v=uQywLmp2x9U](https://www.youtube.com/watch?v=uQywLmp2x9U)
 
 Disini Saya akan Menjelaskan Kode Daftar NIlai<br>
-![](Gambar/daftar nilai.png)<br>
+![](Gambar/daftarnilai.png)<br>
 Kode daftar_nilai berisi: tambah_data, ubah_data, cari_data, hapus_data.<br><Br>
 ~ tambah_data <br>
 tambah_data berguna untuk menambahkan data seperti nama, nim,
@@ -20,7 +20,7 @@ cari_data berguna untuk menampilkan data yang dicari dalam input, cari data yang
 hapus_data berguna menghapus data yang diinput oleh user , biasa nya user ingin menghapus data yg salah<br><br>
 
 ~Kode input nilai<br>
-![](Gambar/input nilai.png)<br>
+![](Gambar/inputnilai.png)br>
 Kode input nilai ini berfungsi untuk menginput inputan user yang memasukan nama,nim,tugas,uts,uas <br><br>
 
 ~Kode View Nilai<br>
@@ -29,28 +29,28 @@ Kode View Nilai berisi Fungsi [cetak_daftar_nilai ]()dan [cetak_hasil_pencarian]
 karna saya menggunakan liblary tabulate, sedangkan cetak_hasil_pencarian akan menampilan nama yang di carin oleh user hanya dengan menginput nama yg di input <br><Br>
 
 ~Kode Main Py <br>
-![](Gambar/main py.png)<br>
+![](Gambar/mainpy.png)<br>
 kode [main.py]() ini ada program utama untuk menjalankan input data Mahasiswa disini bisa Menmabah Data , Melihat Data , Menghapus Data , Mengubah Data , Dan Mencari Data <br><br>
 
 <br><br>
 
 [#Output Tambah Data]()<br>
-![](Gambar/output 1.png)<br>
+![](Gambar/output1.png)<br><br>
 [#Output Lihat Data]()
-![](Gambar/output2.png) <br><br>
+![](Gambar/output2.png)
 [#Output Ubah Data]()<br>
 Data Sebelum Di Ubah <br>
-![](Gambar/output 1.png)<br>
+![](Gambar/output1.png)<br>
 Data Setelah Di ubah <br>
-![](Gambar/out 3.png)<br>
+![](Gambar/out3.png)<br>
 Dan Ini Hasil Ubah Data nya <BR>
 [#Output Hapus Data ]()<br>
 Data Sebelum Di Hapus <br>
-![](Gambar/out 5.png)<br>
+![](Gambar/out5.png)<br>
 Data Setelah Di Hapus <br>
-![](Gambar/out 6.png)<br>
+![](Gambar/out6.png)<br>
 #Output Keluar Menu <br>
-![](Gambar/out put 7.png)<br><br>
+![](Gambar/output7.png)<br><br>
 
 SEKIAN PENJELASAN DARI SAYA , KURANG LEBIHNYA SAYA MOHON MAAF<br>
 TERIMA KASIH
